@@ -1,0 +1,21 @@
+.header {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  width: 300px;
+  height: 300px;
+  border: 2px solid lightgrey;
+  border-radius: 10px;
+  padding: 100px;
+  margin-top: 50px;
+  margin-left: 400px;
+  background: white;
+}
+
+
+p {
+  text-align: center;
+}
+
+button {
+  height: 35px;
+}
